@@ -17,7 +17,8 @@ Users can register, login, and create fundraising projects.
 ## How to Run
 
 1. Clone the repository:
-2. Run the app main.py
+   git clone https://github.com/Yara-Youssef79/Crowd-Funding-Console-App.git
+3. Run the app main.py
 
 ---
 
