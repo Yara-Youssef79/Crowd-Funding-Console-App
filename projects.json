@@ -1,0 +1,18 @@
+[
+    {
+        "title": "pro2",
+        "details": "medical project",
+        "target": 50000,
+        "start_date": "11-8-2025",
+        "end_date": "18-9-2028",
+        "owner_email": "yara@gmail.com"
+    },
+    {
+        "title": "pro3",
+        "details": "commercial project",
+        "target": 30000,
+        "start_date": "10-10-2027",
+        "end_date": "10-10-2029",
+        "owner_email": "yara@gmail.com"
+    }
+]
